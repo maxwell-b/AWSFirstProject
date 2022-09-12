@@ -3,6 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/GithubProjects/AWSFirstProject/app/src/main/res/drawable/ic_baseline_lock.xml" value="0.2265" />
+        <entry key="..\:/GithubProjects/AWSFirstProject/app/src/main/res/drawable/ic_baseline_lock_open_24.xml" value="0.2265" />
+        <entry key="..\:/GithubProjects/AWSFirstProject/app/src/main/res/drawable/ic_baseline_post_add.xml" value="0.2265" />
+        <entry key="..\:/GithubProjects/AWSFirstProject/app/src/main/res/layout/activity_add_note.xml" value="0.22826086956521738" />
         <entry key="..\:/GithubProjects/AWSFirstProject/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/GithubProjects/AWSFirstProject/app/src/main/res/layout/content_note.xml" value="0.22826086956521738" />
         <entry key="..\:/GithubProjects/AWSFirstProject/app/src/main/res/layout/fragment_first.xml" value="0.22826086956521738" />
